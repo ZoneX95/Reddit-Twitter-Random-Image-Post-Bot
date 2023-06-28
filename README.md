@@ -1,7 +1,5 @@
 Reddit/Twitter Random Image Post Bot
 
-The Reddit/Twitter Random Image Post Bot is a Python script that automates the posting of random images to Reddit and Twitter. It allows you to select a folder containing images and specify subreddits to post the images on. The bot will randomly choose an image from the folder, generate titles for the Reddit and Twitter posts, and post the image to the specified subreddits on Reddit and your Twitter account.
-
 Features:
 
     Automatically posts random images to Reddit and Twitter.
