@@ -31,3 +31,6 @@ Notes:
     Check the script's log file for detailed information about its activities.
 
 That's it! You're now ready to use the Reddit/Twitter Random Image Post Bot to automate your image postings on Reddit and Twitter.
+
+
+PS: I've added a small .bat file that you can put in your boot folder, it will then automatically run the python script upon startup. I can probably make the script do this but I think it works just fine.
